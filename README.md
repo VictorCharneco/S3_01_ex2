@@ -1,4 +1,4 @@
-# S3_01_ex2
+# S3_01_Nivell1_ex2
 
 En aquesta entrega plantegem exercicis de refactorizació de codi(millora d'un codi que funciona perquè sigui de millor qualitat) per començar a entendre en la pràctica com aplicar els principis SOLID.
 
